@@ -1,0 +1,25 @@
+* {
+    border: 1px solid red;
+}
+html, body {
+    margin: 0;
+}
+.header img {
+    height: 100px;
+}
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color:  #E5E7EB;
+}
+.header {
+    color: white;
+    background-color: #1F2937;
+    display: flex;
+    gap: 33px;
+    align-items: center;
+    padding: 0px 150px;
+}
+.link1 {
+    margin-left: auto;
+}
